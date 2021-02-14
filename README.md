@@ -1,1 +1,1 @@
-# kushrike.github.io
+# kushrike.me

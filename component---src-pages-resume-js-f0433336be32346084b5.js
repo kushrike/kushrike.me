@@ -1,0 +1,2 @@
+(self.webpackChunkkushrike_portfolio=self.webpackChunkkushrike_portfolio||[]).push([[903],{2592:function(e,t,n){"use strict";n.r(t);var l=n(7294),r=n(1633),c=n(5298);t.default=function(){return l.createElement(c.Z,null,l.createElement(r.Z,{title:"Resume"}),l.createElement("section",{className:"section-title"},l.createElement("h2",null,"Under construction")))}}}]);
+//# sourceMappingURL=component---src-pages-resume-js-f0433336be32346084b5.js.map

@@ -1,0 +1,1 @@
+export default "I'm an eager learner and a tech geek. Keenly interested in ricing my linux distro, and learning new technologies and tools on the go. I nerd out on MCU and Power Rangers trivia. I wish I could dance ;)"

@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Kushrike",
+    title: "KUSHRIKE",
     description: "Portfolio website of kushrike",
     author: "@kushrike",
     image: "./src/assets/images/me.jpeg",

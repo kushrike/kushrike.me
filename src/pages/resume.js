@@ -1,15 +1,29 @@
 import React from "react"
 import Seo from "../components/Seo"
 import Layout from "../components/Layout"
-const contact = () => {
+import Title from "../components/Title"
+
+const Resume = () => {
   return (
     <Layout>
       <Seo title="Resume" />
-      <section className="section-title">
-        <h2>Under construction</h2>
-      </section>
+      <Title title="Résumé - Kushal Srivastava" />
+      <div className="section-center">
+        <iframe
+          src="https://bit.ly/kushrike_resume"
+          onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));'
+          style={{
+            height: "1200px",
+            width: "100%",
+            border: "none",
+            overflow: "hidden",
+          }}
+          title="RESUME_KUSHRIKE"
+          allow="autoplay"
+        />
+      </div>
     </Layout>
   )
 }
 
-export default contact
+export default Resume

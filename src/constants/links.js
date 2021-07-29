@@ -18,7 +18,7 @@ const data = [
   },
   {
     id: 4,
-    text: "resume",
+    text: "résumé",
     url: "/resume/",
   },
 ]

@@ -10,7 +10,7 @@ const Resume = () => {
       <Title title="Résumé - Kushal Srivastava" />
       <div className="section-center">
         <iframe
-          src="http://resume_embed.kushrike.me"
+          src="https://drive.google.com/file/d/1S_mMYX-_DWjDzpeMTxMXYJQ-aYQ98L-B/preview"
           onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));'
           style={{
             height: "1200px",

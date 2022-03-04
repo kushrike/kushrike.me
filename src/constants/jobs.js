@@ -1,5 +1,16 @@
 export default [
   {
+    id: 4,
+    icon: "",
+    company: "Captain Fresh",
+    title: "Backend Intern",
+    description: [
+      "Building the Finance Backend modules to take care of all the transactions taking place at the firm.",
+      "Tools and Technologies used: Java, SpringBoot, JHipster"
+    ],
+    date: "Jan 2022 - Present",
+  },
+  {
     id: 3,
     icon: "",
     company: "DE Shaw & Co",

@@ -1,9 +1,20 @@
 export default [
+    {
+    id: 4,
+    name: "Distributed File System (GFS)",
+    title: "Distributed File System (GFS)",
+    description: [
+      "A group project where I built a Distributed File System composed of a master server, some chunservers and a number of clients.",
+      "Implemented file‑handling strategies at chunkserver level; handled multilevel failure cases."
+    ],
+    techstack: ["Java", "Spring Boot"],
+    date: "Jan 2022",
+    github: "https://github.com/nikunjagarwal321/gfs",
+  },
   {
     id: 3,
     name: "XMeme",
     title: "Meme Stream Application",
-    meta: "tha ek mast sa kaam...maza hi aa gya tha",
     description: [
       "Full‐stack Meme Stream Application that lets its users create, edit and view memes posted on the webpage.",
       "Built as a part of Crio’s CWoD invite only programme.",
@@ -16,7 +27,6 @@ export default [
     id: 2,
     name: "Zemotacqy",
     title: "Zemotacqy",
-    meta: "tha ek mast sa kaam...maza hi aa gya tha",
     description: [
       "A web platform that would help doctors in assessing the growth and improvement of their patients suffering from mental disorders like ADHD by running a set of research‐backed cognitive tests, rendering meaningful statistics and data.",
       "Winning project at HACK 36, 2020 - Annual hackathon organised by MNNIT Allahabad",
@@ -29,7 +39,6 @@ export default [
     id: 1,
     name: "BIT Insider",
     title: "Social Media Application",
-    meta: "tha ek mast sa kaam...maza hi aa gya tha",
     description: [
       "Android application to connect all the students of BIT college campus.",
       "Allows maintaining user profiles, batch based student segregation, Real-Time PTP chat, separate Alumni section",

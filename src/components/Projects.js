@@ -1,7 +1,6 @@
 import React from "react"
 import Title from "./Title"
 import Project from "./Project"
-import { Link } from "gatsby"
 import projects from '../constants/projects'
 
 const Projects = () => {

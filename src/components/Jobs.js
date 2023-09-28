@@ -6,7 +6,7 @@ import jobs from '../constants/jobs'
 
 const Jobs = () => {
   const [value, setValue] = React.useState(0)
-  const { id, icon, company, title,  description, date } = jobs[value]
+  const { icon, company, title,  description, date } = jobs[value]
 
   return (
     <section className="section jobs">

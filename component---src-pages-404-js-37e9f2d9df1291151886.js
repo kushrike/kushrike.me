@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkkushrike_portfolio=self.webpackChunkkushrike_portfolio||[]).push([[883],{9616:function(e,t,a){a.r(t);var r=a(7294),l=a(5298),n=a(5444),o=a(1633);t.default=()=>r.createElement(l.Z,null,r.createElement(o.Z,{title:"Not Found"}),r.createElement("main",{className:"error-page"},r.createElement("div",{className:"error-container"},r.createElement("h1",null,"oops it's a dead end"),r.createElement(n.rU,{to:"/",className:"btn"},"back home"))))}}]);
+//# sourceMappingURL=component---src-pages-404-js-37e9f2d9df1291151886.js.map

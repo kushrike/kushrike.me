@@ -1,8 +1,8 @@
 export default [
   // Prog Langs
-  ['Java', 'C++', 'Javascript', 'Python'], 
+  ['Java', 'Javascript', 'Python', 'C++', 'Golang'], 
   // Web
-  ['NodeJs', 'ReactJS', 'Redux', 'Mongo'], 
+  ['Spring Boot', 'NodeJS', 'AWS', 'ReactJS', 'Redux', 'SQL', 'MongoDB'], 
   // Other Tools and Technologies
-  ['Computer Networking', 'Linux', 'REST']
+  ['Object Oriented Design Patterns', 'Computer Networking', 'Linux', 'REST', 'DBMS']
 ]

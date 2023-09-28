@@ -3,12 +3,15 @@ export default [
     id: 5,
     icon: "",
     company: "Captain Fresh",
-    title: "Software Development Engineer - Backend",
+    title: "Software Development Engineer",
     description: [
-      "Took ownership and remodled the finance backend to adapt to the new ERP. Incorporated invoice-attribution behaviour to knock-off invoices.",
-      "Enhanced the performance 4x over the existing payments setup (Zoho ERP).",
-      "Adapted myself to learn and understand Zoho Deluge. Set up two way sync between the previous ERP and the new Finance service in a master-slave architecture to ensure sanity of incoming transactions.",
-      "Tools and Technologies used: Java, SpringBoot, Service Framework, Hibernate, PostgreSQL, AWS S3."
+      "Spearheaded the remodeling of the finance module to adapt to the new ERP. Worked with Product Managers to develop technical specifications.",
+      "Designed and built the backend service to process all vendor/customer payments, and incorporated credit/debit knock‐off behavior in a scalable fashion.",
+      "Achieved a 4x performance boost in payment processes compared to the previous Zoho ERP setup.",
+      "Set up two way sync between the previous ERP and the new Finance service in a master‐slave architecture to ensure sanity of incoming transactions and facilitate smooth migration. Adapted myself to learn and understand Zoho Deluge.",
+      "Contributed vital UI components to the Finance Module, accelerating product development while emphasizing collective efficiency.",
+      "Wrote SQL and Python scripts for data migration from Zoho to finance module.",
+      "Tools and Technologies used: Java, SpringBoot, Service Framework, Hibernate, PostgreSQL, AWS S3, AWS SQS, AWS SNS, ReactJS, Python"
     ],
     date: "Jun 2022 - Present",
   },
@@ -19,8 +22,8 @@ export default [
     title: "Backend Intern",
     description: [
       "Built the first production ready version of in-house Finance Backend module from scratch to take care of all the customer and vendor transactions taking place at the firm.",
-      "Components included designing and implementing transaction and ledger behaviour, integrating Razorpay payment schemes, expense validation and approval/rejection workflows, processing orders and refunds.",
-      "Built a template expense module for internal use of the firm which accepts company wide expenses and validates them based upon expense category and type.",
+      "Designed and implemented transaction and ledger behaviour, integrated Razorpay payment schemes to handle order processing and refunds.",
+      "Engineered an expense module which accepted company wide expenses and validated them based upon expense category and type.",
       "Tools and Technologies used: Java, SpringBoot, Hibernate, JHipster, PostgreSQL, Golang, Iris, MongoDB."
     ],
     date: "Jan 2022 - May 2022",
@@ -31,10 +34,9 @@ export default [
     company: "DE Shaw & Co",
     title: "Software Intern",
     description: [
-      "Built an in-house toolset from scratch to aggregate, display and update dataset informations used in ABS team",
-      "Reduced the dependence of the financial stakeholders over Ops team and enhanced overall productivity",
-      "Eliminated the slow email based communication between teams for any discrepancy over the datasets",
-      "Tools and Technologies used: ReactJS, Redux, Python"
+      "Developed and deployed an in-house toolset from scratch to aggregate, display and update dataset informations used in ABS team (Finance Wing).",
+      "Enhanced overall productivity by 200% by reducing the dependence of the financial stakeholders over Ops team and eliminating slow e‐mail based communications.",
+      "Tools and Technologies used: ReactJS, Redux, Python, Pandas, SQL."
     ],
     date: "May 2021 - Jul 2021",
   },

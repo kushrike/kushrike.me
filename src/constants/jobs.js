@@ -31,7 +31,7 @@ export default [
   {
     id: 3,
     icon: "",
-    company: "DE Shaw & Co",
+    company: "D.E. Shaw & Co.",
     title: "Software Intern",
     description: [
       "Developed and deployed an in-house toolset from scratch to aggregate, display and update dataset informations used in ABS team (Finance Wing).",
@@ -44,12 +44,12 @@ export default [
     id: 2,
     icon: "",
     company: "Crio.Do",
-    title: "STUDENT DEVELOPER - Crio Launch 2020",
+    title: "Student Developer",
     description: [
-      "The work was divided into a set of guided micro-experiences each with their list of TODOs",
-      "Implemented pre-installed tools to run system and network checks, and automated the same via Shell Scripts",
+      "The work was divided into a set of guided micro-experiences each with their list of TODOs.",
+      "Implemented pre-installed tools to run system and network checks, and automated the same via Shell Scripts.",
       "Implemented the core logic of a Portfolio Manager Application and published it as a library. Refactored pre-written code.",
-      "Implemented basic editor features including opening a file, navigation, search/replace, cut/copy/paste. Implemented the same functionality with multiple data structures to understand the effect of design choices on performance",
+      "Implemented basic editor features including opening a file, navigation, search/replace, cut/copy/paste. Implemented the same functionality with multiple data structures to understand the effect of design choices on performance.",
     ],
     date: "Feb 2020 - Apr 2020",
   },
@@ -57,9 +57,9 @@ export default [
     id: 1,
     icon: "",
     company: "Crio.Do",
-    title: "TEACHING ASSISTANT",
+    title: "Teaching Assistant",
     description: [
-      "Resolved ticketed doubts on Python requests, API Handling, API Procurement, Postman, Virtual work‐space set‐up, Git issues, debugged them accordingly and indexed them as FAQ",
+      "Resolved ticketed doubts on Python requests, API Handling, API Procurement, Postman, Virtual work‐space set‐up, Git issues, debugged them accordingly and indexed them as FAQ.",
       "Libraries and Tools employed : Python Requests, REST APIs, Postman",
     ],
     date: "Dec 2019",

@@ -13,7 +13,9 @@ const Hero = () => {
             <h1>Hi, i'm Kushal</h1>
             <h4>Software geek and a nerd programmer</h4>
             <h4>welcome to my badly designed playground!</h4>
-            <button className="btn">contact me</button>
+            <button className="btn">
+              <a href="mailto:kushrike@gmail.com">contact me</a>
+            </button>
             <SocialLinks />
           </div>
         </article>

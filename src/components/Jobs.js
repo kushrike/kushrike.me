@@ -22,7 +22,7 @@ const Jobs = () => {
                 onClick={() => setValue(index)}
                 className={`job-btn ${index === value && "active-btn"}`}
               >
-                {item.company}
+                {item.title}
               </button>
             )
           })}
@@ -30,8 +30,8 @@ const Jobs = () => {
 
         {/* job info */}
         <article className="job-info">
-          <h3>{title}</h3>
-          <h4>{company}</h4>
+          <h3>{company}</h3>
+          <h4>{title}</h4>
           <p className="job-date">{date}</p>
           {description.map((item, index) => {
             return (
@@ -44,9 +44,9 @@ const Jobs = () => {
         </article>
       </div>
       
-      <Link to="/about" className="btn center-btn">
+      {/* <Link to="/about" className="btn center-btn">
         more info
-      </Link>
+      </Link> */}
     </section>
   )}
 

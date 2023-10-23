@@ -5,6 +5,7 @@ import {
   FaGithub,
   FaRedditAlien,
   FaInstagram,
+  FaTwitter
 } from "react-icons/fa"
 
 const data = [
@@ -32,6 +33,11 @@ const data = [
     id: 5,
     icon: <FaRedditAlien className="social-icon"></FaRedditAlien>,
     url: "https://youtu.be/dQw4w9WgXcQ",
+  },
+  {
+    id: 6,
+    icon: <FaTwitter className="social-icon"></FaTwitter>,
+    url: "https://twitter.com/kushrike",
   },
 ]
 const links = data.map(link => {

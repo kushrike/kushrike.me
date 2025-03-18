@@ -1,5 +1,24 @@
 export default [
   {
+    id: 6,
+    icon: "",
+    company: "Zluri",
+    title: "Software Development Engineer",
+    description: [
+      "Working on the SaaS Management platform, with primary ownership of the Identity Governance and Administration (IGA) module.",
+      "Pioneered the development of a critical feature, providing insights for privileged users during access reviews.",
+      "Simplified application access requests by bringing them where the teams live and breathe, i.e. Slack. with an overall 70% adoption rate.",
+      "Designed and implemented a market-breaking feature enabling multi-level reviews in campaigns at scale.",
+      "Reduced customer issues by 33% by enabling service‑level disaster recovery mechanisms and optimizing query performance.",
+      "Improved operational excellence by promptly tackling on-call issues and service/API failures leveraging tools like Datadog and Sentry.",
+      "Mentored interns and junior engineers during their onboarding and feature delivery processes.",
+      "Led the efforts within my team to migrate our database from MongoDB to Postgres, ensuring data integrity and relational consistency. Contributed to the organization’s broader migration strategy.",
+      "Leveraged AWS DMS for efficient data migration and developed DBT scripts to format and structure data accurately in Postgres tables. Built the Data Access Layer and migrated APIs and background jobs to integrate seamlessly with Postgres.",
+      "Tools and Technologies used: Javascript, TypeScript, NodeJS, Kafka, MongoDB, Postgres, Bull MQ, Argo, AWS S3, Sentry, Datadog."
+    ],
+    date: "Nov 2023 - Present",
+  },
+  {
     id: 5,
     icon: "",
     company: "Captain Fresh",
@@ -13,7 +32,7 @@ export default [
       "Wrote SQL and Python scripts for data migration from Zoho to finance module.",
       "Tools and Technologies used: Java, SpringBoot, Service Framework, Hibernate, PostgreSQL, AWS S3, AWS SQS, AWS SNS, ReactJS, Python"
     ],
-    date: "Jun 2022 - Present",
+    date: "Jun 2022 - Oct 2023",
   },
   {
     id: 4,

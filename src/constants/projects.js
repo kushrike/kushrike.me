@@ -1,4 +1,20 @@
 export default [
+  {
+    id: 5,
+    name: "Status Page application",
+    title: "Status Page application",
+    description: [
+      "A modern, real-time status page system with multi tenant support. Monitor your services, manage incidents, and keep your users informed with real-time updates.",
+      "User Access Control: Supports authentication, authorization, and role based access control",
+      "Monitors Uptime & Performance: Tracks service health and availability in real-time",
+      "Asynchronous Task Handling: Uses Celery for efficient background tasks, with fault tolerance in mind",
+      "WebSockets Integration: Provides real-time status updates without page refreshes",
+      "Customizable Alerts: Configurable notifications for downtime or issues",
+    ],
+    techstack: ["Python", "Django", "Celery", "Redis", "PostgreSQL", "Docker", "ReactJS", "TailwindCSS"],
+    date: "Feb 2025",
+    github: "https://github.com/kushrike/status-page",
+  },
     {
     id: 4,
     name: "Distributed File System (GFS)",
